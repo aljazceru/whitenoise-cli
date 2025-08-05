@@ -1,0 +1,36 @@
+# Build artifacts
+target/
+*.so
+*.dylib
+*.dll
+
+# Temporary demo directories
+alice_demo/
+bob_demo/
+charlie_demo/
+test_demo/
+alice/
+bob/
+simple_demo/
+test_storage/
+.whitenoise-cli/
+
+# Temporary files and logs
+*.log
+*.txt
+*.json
+*.md
+!README.md
+!Cargo.toml
+group_id.txt
+
+# Whitenoise submodule (external dependency)
+whitenoise/
+
+# IDE and system files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
