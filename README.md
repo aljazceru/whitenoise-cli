@@ -1,5 +1,6 @@
 # WhiteNoise CLI - Interactive Secure Messaging
 
+# FULLY VIBED AND EXTREMELY EXPERIMENTAL
 A command-line interface for secure messaging using the WhiteNoise protocol (Nostr + MLS), fully compatible with the WhiteNoise Flutter client.
 
 ## Features

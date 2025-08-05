@@ -24,7 +24,7 @@ test_storage/
 !Cargo.toml
 group_id.txt
 
-# Whitenoise submodule (external dependency)
+# Whitenoise dependency (external - should not be in repo)
 whitenoise/
 
 # IDE and system files
